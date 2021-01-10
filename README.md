@@ -3,9 +3,9 @@
 
 
 **cephalogram**
-![그림1](https://user-images.githubusercontent.com/46522501/104128837-2b8c6180-53ad-11eb-9f57-e4f126a7d34a.png)
-
 cephalogram 은 두개 안면 영역의 X- 선 이미지다. 두개골과 연조직의 프로파일 X-레이이며 어린이의 성장 측정, 턱의 치아 관계, 턱과 두개골의 관계 및 연조직과 치아와 턱의 관계를 평가하는 데 사용된다. 
+
+![그림1](https://user-images.githubusercontent.com/46522501/104128837-2b8c6180-53ad-11eb-9f57-e4f126a7d34a.png)
 
 
 # Processs:
